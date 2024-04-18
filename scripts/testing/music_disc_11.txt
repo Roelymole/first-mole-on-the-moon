@@ -1,0 +1,46 @@
+#modloaded biomesoplenty nuclearcraft
+
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+import crafttweaker.entity.IEntity;
+import crafttweaker.entity.IEntityItem;
+import crafttweaker.event.IEntityEvent;
+import crafttweaker.event.EntityLivingAttackedEvent;
+
+val record_11 = <minecraft:record_11>;
+
+val music_discs = [
+    <minecraft:record_13>,
+    <minecraft:record_cat>,
+    <minecraft:record_blocks>,
+    <minecraft:record_chirp>,
+    <minecraft:record_far>,
+    <minecraft:record_mall>,
+    <minecraft:record_mellohi>,
+    <minecraft:record_stal>,
+    <minecraft:record_strad>,
+    <minecraft:record_ward>,
+    <minecraft:record_wait>,
+    /*<nuclearcraft:record_wanderer>,
+    <nuclearcraft:record_end_of_the_world>,
+    <nuclearcraft:record_money_for_nothing>,
+    <nuclearcraft:record_hyperspace>,
+    <biomesoplenty:record_wanderer>*/
+] as IItemStack[];
+
+events.onEntityLivingAttacked(function (event as EntityLivingAttackedEvent) {
+    if !isNull(event.entity.definition) {
+        if debug {
+            print(event.entity.definition.id);
+            print(event.damageSource.damageType);
+        }
+        if (event.entity.definition.id == "minecraft:item") {
+            print(event.entity.displayName);
+            /*
+            if (music_discs has entity.item) {
+                print(entity.item.definition.id);
+                entity.item = record_11;
+            }*/
+        }
+    }
+});

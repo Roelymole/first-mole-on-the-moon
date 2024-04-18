@@ -1,0 +1,6 @@
+{
+    "landScheme": "continents",
+    "tempScheme": "latitude",
+    "rainScheme": "random",
+    "generateNetherHives": false
+}

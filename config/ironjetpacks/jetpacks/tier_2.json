@@ -1,0 +1,20 @@
+{
+  "name": "tier_2",
+  "disable": false,
+  "tier": 2,
+  "color": "6b5f4d",
+  "armorPoints": 4,
+  "enchantability": 12,
+  "craftingMaterial": "ore:ingotIron",
+  "forceRecipes": false,
+  "rarity": 1,
+  "capacity": 12000000,
+  "usage": 350,
+  "speedVertical": 0.67,
+  "accelVertical": 0.135,
+  "speedSideways": 0.155,
+  "speedHoverDescend": 0.35,
+  "speedHover": 0.025,
+  "sprintSpeedMulti": 1.5,
+  "sprintFuelMulti": 3.2
+}

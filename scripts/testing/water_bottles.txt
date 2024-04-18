@@ -1,0 +1,15 @@
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+import crafttweaker.event.PlayerInteractBlockEvent;
+
+events.onPlayerInteractBlock(function (event as PlayerInteractBlockEvent) {
+    if (event.usingItem) {
+        if (event.item.definition.id == "minecraft:glass_bottle") {
+            if ((event.dimension != 0) && (event.dimension != 1)) {
+                if (event.block.definition.id == "minecraft:water") {
+                    event.cancel();
+                }
+            }
+        }
+    }
+});

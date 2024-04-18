@@ -1,0 +1,16 @@
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+import crafttweaker.block.IBlock;
+import crafttweaker.block.IBlockDefinition;
+
+val items = {
+    <chisel:laboratory:4>: 1,
+    <galacticraftplanets:miner_base>: 15
+} as int[IItemStack];
+var block as IBlockDefinition;
+
+for item, opacity in items {
+    block = item.asBlock().definition;
+    print(block.lightOpacity);
+    block.lightOpacity = opacity;
+}

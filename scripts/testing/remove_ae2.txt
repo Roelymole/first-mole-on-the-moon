@@ -1,0 +1,10 @@
+#modloaded appliedenergistics2 loottweaker
+
+import loottweaker.LootTweaker;
+import loottweaker.vanilla.loot.LootTable;
+import loottweaker.vanilla.loot.LootPool;
+
+val abandoned_mineshaft = LootTweaker.getTable("minecraft:chests/abandoned_mineshaft");
+
+abandoned_mineshaft.removePool("AE2 Crystals");
+abandoned_mineshaft.removePool("AE2 DUSTS");

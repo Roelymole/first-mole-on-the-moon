@@ -1,0 +1,82 @@
+#modloaded nuclearcraft
+
+import crafttweaker.liquid.ILiquidStack;
+import mods.nuclearcraft.Centrifuge;
+import mods.nuclearcraft.SaltMixer;
+import scripts.utils.removeAndHide.hideLiquidsAndBuckets;
+
+val salts = [
+    <liquid:iron_nak>,
+    <liquid:redstone_nak>,
+    <liquid:quartz_nak>,
+    <liquid:obsidian_nak>,
+    <liquid:nether_brick_nak>,
+    <liquid:glowstone_nak>,
+    <liquid:lapis_nak>,
+    <liquid:gold_nak>,
+    <liquid:prismarine_nak>,
+    <liquid:slime_nak>,
+    <liquid:end_stone_nak>,
+    <liquid:purpur_nak>,
+    <liquid:diamond_nak>,
+    <liquid:emerald_nak>,
+    <liquid:copper_nak>,
+    <liquid:tin_nak>,
+    <liquid:lead_nak>,
+    <liquid:boron_nak>,
+    <liquid:lithium_nak>,
+    <liquid:magnesium_nak>,
+    <liquid:manganese_nak>,
+    <liquid:aluminum_nak>,
+    <liquid:silver_nak>,
+    <liquid:fluorite_nak>,
+    <liquid:villiaumite_nak>,
+    <liquid:carobbiite_nak>,
+    <liquid:arsenic_nak>,
+    <liquid:liquid_nitrogen_nak>,
+    <liquid:liquid_helium_nak>,
+    <liquid:enderium_nak>,
+    <liquid:cryotheum_nak>,
+] as ILiquidStack[];
+
+val hot_salts = [
+    <liquid:iron_nak_hot>,
+    <liquid:redstone_nak_hot>,
+    <liquid:quartz_nak_hot>,
+    <liquid:obsidian_nak_hot>,
+    <liquid:nether_brick_nak_hot>,
+    <liquid:glowstone_nak_hot>,
+    <liquid:lapis_nak_hot>,
+    <liquid:gold_nak_hot>,
+    <liquid:prismarine_nak_hot>,
+    <liquid:slime_nak_hot>,
+    <liquid:end_stone_nak_hot>,
+    <liquid:purpur_nak_hot>,
+    <liquid:diamond_nak_hot>,
+    <liquid:emerald_nak_hot>,
+    <liquid:copper_nak_hot>,
+    <liquid:tin_nak_hot>,
+    <liquid:lead_nak_hot>,
+    <liquid:boron_nak_hot>,
+    <liquid:lithium_nak_hot>,
+    <liquid:magnesium_nak_hot>,
+    <liquid:manganese_nak_hot>,
+    <liquid:aluminum_nak_hot>,
+    <liquid:silver_nak_hot>,
+    <liquid:fluorite_nak_hot>,
+    <liquid:villiaumite_nak_hot>,
+    <liquid:carobbiite_nak_hot>,
+    <liquid:arsenic_nak_hot>,
+    <liquid:liquid_nitrogen_nak_hot>,
+    <liquid:liquid_helium_nak_hot>,
+    <liquid:enderium_nak_hot>,
+    <liquid:cryotheum_nak_hot>
+] as ILiquidStack[];
+
+hideLiquidsAndBuckets(salts);
+hideLiquidsAndBuckets(hot_salts);
+
+for salt in salts {
+    Centrifuge.removeRecipeWithInput(salt * 144);
+    SaltMixer.removeRecipeWithOutput(salt * 144);
+}

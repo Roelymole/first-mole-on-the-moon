@@ -1,0 +1,26 @@
+#modloaded appliedenergistics2 nuclearcraft
+
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+import mods.appliedenergistics2.Grinder;
+
+val inputs = [
+    <minecraft:wheat>,
+    <minecraft:bone>,
+    <minecraft:ender_pearl>,
+    <minecraft:gravel>,
+    <minecraft:coal>,
+    <minecraft:coal_ore>,
+    <minecraft:quartz>,
+    <minecraft:quartz_ore>,
+    <appliedenergistics2:material>,
+    <appliedenergistics2:quartz_ore>,
+    <appliedenergistics2:charged_quartz_ore>,
+    <appliedenergistics2:material:7>,
+    <appliedenergistics2:sky_stone_block>,
+    <galacticraftplanets:asteroids_block:4>
+] as IItemStack[];
+
+for input in inputs {
+    Grinder.removeRecipe(input);
+}

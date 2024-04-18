@@ -1,0 +1,37 @@
+#modloaded galacticraftcore
+
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+
+val treasure_chest = <galacticraftcore:treasure_chest>;
+val steel = <galacticraftcore:basic_item:9>;
+
+val heavy_duty = {
+    <galacticraftcore:steel_pickaxe>: "Pickaxe",
+    <galacticraftcore:steel_axe>: "Axe",
+    <galacticraftcore:steel_hoe>: "Hoe",
+    <galacticraftcore:steel_shovel>: "Shovel",
+    <galacticraftcore:steel_sword>: "Sword",
+    <galacticraftcore:steel_helmet>: "Helmet",
+    <galacticraftcore:steel_chestplate>: "Chestplate",
+    <galacticraftcore:steel_leggings>: "Leggings",
+    <galacticraftcore:steel_boots>: "Boots"
+} as string[IItemStack];
+
+/*
+val blocks = {
+    <galacticraftcore:basic_block_core>: "Tin",
+    <galacticraftplanets:basic_block_venus>: "Desh"
+} as IItemStack[string];
+*/
+
+var ingredients as IIngredient[][];
+var name as string;
+
+for item, type in heavy_duty {
+    for recipe in recipes.getRecipesFor(item) {
+        ingredients = recipe.ingredients2D;
+        recipes.removeByRecipeName("galacticraftcore:" ~ recipe.name);
+        recipes.addShaped(item.withTag({display: {LocName: "Heavy-Duty " ~ type}}), ingredients);
+    }
+}

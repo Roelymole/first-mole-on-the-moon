@@ -1,0 +1,15 @@
+#loader contenttweaker
+
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Block;
+
+var vents = VanillaFactory.createBlock("laboratory_vents", <blockmaterial:ice>);
+vents.setLightOpacity(3);
+vents.setLightValue(0);
+vents.setBlockHardness(5.0);
+vents.setBlockResistance(5.0);
+vents.setToolClass("pickaxe");
+vents.setToolLevel(0);
+vents.setBlockSoundType(<soundtype:snow>);
+vents.setSlipperiness(0.3);
+vents.register();
