@@ -1,0 +1,9 @@
+# Ignore everything except a few specified items, because it is more concise this way round
+*
+!.gitignore
+!config/
+!scripts/
+!patchouli_books/
+!resourcepacks/
+!resourcepacks/First_Mole_on_the_Moon/
+!resourcepacks/First_Mole_on_the_Moon/**
