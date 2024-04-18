@@ -1,0 +1,12 @@
+{
+    "name": "Venus Ores",
+    "icon": "galacticraftplanets:venus:13",
+    "category": "patchouli:venus",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "Test."
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Moon Ores",
+    "icon": "galacticraftcore:basic_block_moon:2",
+    "category": "patchouli:moon",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "Just like the Overworld, you can find Tin Ore and Copper Ore here. The other ores are Cheese Ore, Certus Quartz Ore, Charged Certus Quartz Ore and Thorium Ore."
+        }
+    ]
+}

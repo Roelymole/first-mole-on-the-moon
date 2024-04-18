@@ -1,0 +1,12 @@
+{
+    "name": "Mars Ores",
+    "icon": "galacticraftplanets:mars:2",
+    "category": "patchouli:mars",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "Test."
+        }
+    ]
+}

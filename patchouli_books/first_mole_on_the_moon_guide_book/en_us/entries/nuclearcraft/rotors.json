@@ -1,0 +1,12 @@
+{
+    "name": "Galacticraft Rotor Blades",
+    "icon": "nuclearcraft:turbine_rotor_blade_steel",
+    "category": "patchouli:nuclearcraft",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "There are three different types of rotor blades and a rotor stator."
+        }
+    ]
+}

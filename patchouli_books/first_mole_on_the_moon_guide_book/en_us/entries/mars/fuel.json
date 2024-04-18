@@ -1,0 +1,36 @@
+{
+    "name": "Fuel Production",
+    "icon": "galacticraftcore:fuel_canister_partial",
+    "category": "patchouli:mars",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "It is possible to produce Rocket Fuel sustainably on Mars without the need for Oil. This makes Mars the perfect location for a Space Port. There are three key stages to this process: Electrolysis, Synthesis and Liquefication."
+        },
+        {
+            "type": "text",
+            "title": "Electrolysis",
+            "text": "Electrolysis is the process of splitting water into Hydrogen and Oxygen using electricity. This can be done using Galacticraft's  $(item)Water Electrolyzer$() or NuclearCraft's  $(item)Electrolyzer$(). Water can be obtained using a Buildcraft Pump and Oxygen is a useful byproduct in space. Note that small infinite water sources do not exist in this modpack. Instead you will need to draw water from a larger body of water."
+        },
+        {
+            "type": "text",
+            "title": "Synthesis",
+            "text": "Synthesis is the process of turning Hydrogen and Carbon Dioxide into Methane. This can be done using Galacticraft's  $(item)Methane Synthesizer$(). Carbon Dioxide can be obtained on Mars simply by putting an Atmospheric Valve or Carbon Fragments in the Methane Synthesizer."
+        },
+        {
+            "type": "text",
+            "title": "Liquefication",
+            "text": "Liquefication is the process of turning Methane Gas into liquid Fuel. This can be done using Galacticraft's  $(item)Gas Liquefier$() or NuclearCraft's  $(item)Supercooler$(). Once you have done this, the Fuel can be used to power a Rocket, a Buggy or a Combustion Engine."
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:textures/gui/lake.png"
+            ],
+            "border": "true",
+            "title": "Water on Mars",
+            "text": "This crater has been flooded with water to create an infinite water source."
+        }
+    ]
+}

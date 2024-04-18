@@ -1,0 +1,21 @@
+{
+    "name": "Applied Energistics 2",
+    "icon": "appliedenergistics2:material",
+    "category": "patchouli:moon",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "As mentioned in the Moon Ores section, Certus Quartz Ore and Charged Certus Quartz Ore can be found on the Moon. That's right! You can give your storage system an upgrade using Applied Energistics 2. Keep an eye out for Meteorites as well, because they contain the precious Inscriber Presses you will need for an ME Network."
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:textures/gui/meteorite.png"
+            ],
+            "border": "true",
+            "title": "Crash Landing",
+            "text": "Look inside for a Sky Stone Chest containing Inscriber Presses."
+        }
+    ]
+}

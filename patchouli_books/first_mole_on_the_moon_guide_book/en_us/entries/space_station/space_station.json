@@ -1,0 +1,12 @@
+{
+    "name": "Space Station",
+    "icon": "galacticraftcore:basic_item:1",
+    "category": "patchouli:space_station",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "Test."
+        }
+    ]
+}

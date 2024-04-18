@@ -1,0 +1,12 @@
+{
+    "name": "Galacticraft Heat Sinks",
+    "icon": "nuclearcraft:solid_fission_sink2:11",
+    "category": "patchouli:nuclearcraft",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "This modpack contains several Fission Heat Sinks crafted from Galacticraft materials. They are as follows: Cheese, Meteoric Iron, Desh, Titanium and Liquid Argon."
+        }
+    ]
+}

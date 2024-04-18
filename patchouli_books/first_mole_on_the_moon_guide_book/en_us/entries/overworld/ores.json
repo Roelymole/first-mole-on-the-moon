@@ -1,0 +1,12 @@
+{
+    "name": "Overworld Ores",
+    "icon": "minecraft:redstone_ore",
+    "category": "patchouli:overworld",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "Metals: Iron, Gold, Tin, Copper, Aluminum, Lead, Boron and Magnesium. Gems: Diamond, Emerald, Ruby, Peridot, Topaz, Tanzanite, Sapphire, Amber and Malachite. Other: Coal, Lapis Lasuli, Redstone and Silicon."
+        }
+    ]
+}

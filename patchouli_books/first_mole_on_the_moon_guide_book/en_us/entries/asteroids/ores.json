@@ -1,0 +1,21 @@
+{
+    "name": "Asteroids Ores",
+    "icon": "galacticraftplanets:asteroids_block:3",
+    "category": "patchouli:asteroids",
+    "pages": [
+        {
+            "anchor": "intro",
+            "type": "text",
+            "text": "There are three types of ore to be found in the Asteroids: Iron Ore, Aluminum Ore and Ilmenite Ore. Ilmenite Ore contains a mixture of Iron and Titanium and is the only source of Titanium. Large clumps of each type of ore form the cores of some asteroids, so if you stumble across the right asteroid you are in business."
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:textures/gui/asteroid.png"
+            ],
+            "border": "true",
+            "title": "A Wild Asteroid!",
+            "text": "Sadly there was nothing exciting inside this one. Maybe you will have better luck."
+        }
+    ]
+}
