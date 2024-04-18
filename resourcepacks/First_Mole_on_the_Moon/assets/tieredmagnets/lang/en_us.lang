@@ -1,0 +1,4 @@
+#Items
+item.magnet_durability_stone.name=Magnet
+item.magnet_energy_leadstone.name=Electromagnet
+item.magnet_energy_hardened.name=Advanced Electromagnet

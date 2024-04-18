@@ -8392,32 +8392,32 @@ moarsigns:nugget:4, Quartz Nugget
 moarsigns:sign_toolbox:0, Sign Toolbox §2(Edit)§r
 opensecurity:data_block, Data Block
 opensecurity:rfid_reader, RFID Reader
-opensecurity:security_terminal, Security Terminal
-opensecurity:keypad, Keypad
-opensecurity:biometric_reader, Biometric Reader
-opensecurity:entity_detector, Entity Detector
-opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:card_writer, Card Writer
-opensecurity:energy_turret, Energy Turret
 opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:rolldoor_element, Rolldoor Element
 opensecurity:alarm, Alarm
-opensecurity:secure_door, Security Door
+opensecurity:card_writer, Card Writer
+opensecurity:entity_detector, Entity Detector
+opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:security_terminal, Security Terminal
+opensecurity:biometric_reader, Biometric Reader
+opensecurity:keypad, Keypad
+opensecurity:energy_turret, Energy Turret
+opensecurity:mag_reader, Magnetic Card Reader
 opensecurity:private_secure_door, Private Security Door
 opensecurity:mag_secure_door, MagReader Security Door
-opensecurity:nanofog, NanoFog
+opensecurity:secure_door, Security Door
 opensecurity:mag_reader_camo, Camo Magnetic Card Reader
-opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:rolldoor, Rolldoor
 opensecurity:door_controller, Door Controller
-opensecurity:rfid_reader_card, RFID Reader Card
-opensecurity:cooldown_upgrade, Cooldown Upgrade
-opensecurity:damage_upgrade, Damage Upgrade
-opensecurity:mag_card, Magnetic Strip Card
-opensecurity:rfid_card, RFID Card
-opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:rolldoor, Rolldoor
+opensecurity:nanofog, NanoFog
+opensecurity:rolldoor_controller, Rolldoor Controller
 opensecurity:movement_upgrade, Movement Upgrade
+opensecurity:damage_upgrade, Damage Upgrade
+opensecurity:cooldown_upgrade, Cooldown Upgrade
 opensecurity:nanodna, NanoDNA
+opensecurity:rfid_reader_card, RFID Reader Card
+opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:rfid_card, RFID Card
+opensecurity:mag_card, Magnetic Strip Card
 speedyladders:stone_ladder, Steel Ladder
 speedyladders:iron_ladder, Desh Ladder
 speedyladders:gold_ladder, Gold Ladder

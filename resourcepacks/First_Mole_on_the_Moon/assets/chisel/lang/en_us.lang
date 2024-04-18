@@ -1,0 +1,52 @@
+item.chisel.chisel_diamond.name=Malachite Chisel
+
+// Change direciton to direction
+chisel.mode.contiguous.desc=Chisel an area of alike blocks, extending 10 blocks in any direction.
+
+// Change FE to RF for continuity
+chisel.tooltip.power.stored=%s/%s RF
+chisel.tooltip.power.pertick=%s RF/t
+
+// Change Striked to Striped, since this seems like a typo
+tile.chisel.paper.throughMiddle.desc.1=Horizontally Striped
+
+// Change Block of Material to Material Block
+tile.chisel.blockAluminum.name=Aluminum Block
+tile.chisel.block_charcoal.name=Charcoal Block
+tile.chisel.block_coal.name=Coal Block
+tile.chisel.block_coal_coke.name=Coal Coke Block
+tile.chisel.blockBronze.name=Bronze Block
+tile.chisel.certus.name=Certus Quartz Block
+tile.chisel.blockCobalt.name=Cobalt Block
+tile.chisel.blockCopper.name=Copper Block
+tile.chisel.diamond.name=Diamond Block
+tile.chisel.blockElectrum.name=Electrum Block
+tile.chisel.emerald.name=Emerald Block
+tile.chisel.blockGold.name=Gold Block
+tile.chisel.gold.name=Gold Block
+tile.chisel.blockInvar.name=Invar Block
+tile.chisel.blockIron.name=Iron Block
+tile.chisel.iron.name=Iron Block
+tile.chisel.blockLead.name=Lead Block
+tile.chisel.blockNickel.name=Nickel Block
+tile.chisel.blockPlatinum.name=Platinum Block
+tile.chisel.quartz.name=Nether Quartz Block
+tile.chisel.redstone.name=Redstone Block
+tile.chisel.blockSilver.name=Silver Block
+tile.chisel.blockSteel.name=Steel Block
+tile.chisel.blockTin.name=Tin Block
+tile.chisel.blockUranium.name=Uranium Block
+
+tile.chisel.endstone.name=End Stone
+tile.chisel.cobblestonemossy.name=Mossy Cobblestone
+
+tile.chisel.voidstoneRunic.magenta.desc.1=Magenta
+tile.chisel.netherbrick.a1-netherbrick-meatredsmall.desc.1=Small Red Nether Brick made of Meat
+tile.chisel.netherbrick.a1-netherbrick-meatsmall.desc.1=Small Nether Brick made of Meat
+
+tile.chisel.bookshelf_oak.historician.desc.1=Historian
+tile.chisel.bookshelf_spruce.historician.desc.1=Historian
+tile.chisel.bookshelf_birch.historician.desc.1=Historian
+tile.chisel.bookshelf_jungle.historician.desc.1=Historian
+tile.chisel.bookshelf_acacia.historician.desc.1=Historian
+tile.chisel.bookshelf_darkoak.historician.desc.1=Historian

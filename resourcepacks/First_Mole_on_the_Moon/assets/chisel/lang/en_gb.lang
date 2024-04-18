@@ -1,0 +1,41 @@
+// Rename Aluminum to Aluminium
+tile.chisel.blockAluminum.name=Aluminium Block
+
+// Rename Gray to Grey
+tile.chisel.antiblock.silver.desc.1=Light Grey
+tile.chisel.antiblock.gray.desc.1=Grey
+tile.chisel.carpet_gray.name=Grey Carpet
+tile.chisel.carpet_lightgray.name=Light Grey Carpet
+tile.chisel.concrete_powder.gray.desc.1=Grey
+tile.chisel.concrete_powder.lightgray.desc.1=Light Grey
+tile.chisel.concrete.gray.desc.1=Grey
+tile.chisel.concrete.lightgray.desc.1=Light Grey
+tile.chisel.concrete_gray.name=Grey Concrete
+tile.chisel.concrete_lightgray.name=Light Grey Concrete
+tile.chisel.futura.screenMetallic.desc.1=Grey Screen
+tile.chisel.glass.terrain-glassnoborder.desc.1=Grey-Bordered
+tile.chisel.glassdyedlightgray.name=Light Grey Stained Glass
+tile.chisel.glassdyedgray.name=Grey Stained Glass
+tile.chisel.glasspane.terrain-glassnoborder.desc.1=Grey-Bordered
+tile.chisel.glasspanedyedlightgray.name=Light Grey Stained Glass Pane
+tile.chisel.glasspanedyedgray.name=Grey Stained Glass Pane
+tile.chisel.netherrack.a1-netherrack-bloodrockgrey.desc.1=Grey Rock
+tile.chisel.valentines.2.desc.1=Grey Rocky
+tile.chisel.voidstoneRunic.lightgray.desc.1=Light Grey
+tile.chisel.voidstoneRunic.gray.desc.1=Grey
+tile.chisel.wool_gray.name=Grey Wool
+tile.chisel.wool_lightgray.name=Light Grey Wool
+
+// Rename Chiseled to Chiselled
+subtitle.chisel.chiseling.fallback=Object Chiselled
+subtitle.chisel.chiseling.wood=Wood Chiselled
+tile.chisel.obsidian.chiseled.desc.1=Chiselled
+tile.chisel.stonebrick.name=Chiselled Stone
+tile.chisel.bloodMagic.name=Chiselled Blood Rune
+
+tile.chisel.bookshelf_oak.historician.desc.1=Historian
+tile.chisel.bookshelf_spruce.historician.desc.1=Historian
+tile.chisel.bookshelf_birch.historician.desc.1=Historian
+tile.chisel.bookshelf_jungle.historician.desc.1=Historian
+tile.chisel.bookshelf_acacia.historician.desc.1=Historian
+tile.chisel.bookshelf_darkoak.historician.desc.1=Historian

@@ -1,0 +1,12 @@
+tile.stoneSlab.quartz.name=Nether Quartz Slab
+tile.quartzBlock.name=Nether Quartz Block
+tile.quartzBlock.default.name=Nether Quartz Block
+tile.quartzBlock.chiseled.name=Chiseled Nether Quartz Block
+tile.quartzBlock.lines.name=Nether Quartz Pillar
+tile.stairsQuartz.name=Nether Quartz Stairs
+
+tile.bookshelf.name=Oak Bookshelf
+tile.stoneMoss.name=Mossy Cobblestone
+
+item.dyePowder.red.name=Red Dye
+item.dyePowder.yellow.name=Yellow Dye

@@ -1,0 +1,33 @@
+tile.waterlily.lily_flower.name=Flowering Lily Pad
+tile.flower_0.pink_daffodil.name=Pink Daffodil
+tile.willow_vine.name=Willow Vines
+tile.hard_ice.name=Permafrost
+
+item.gem_amethyst.name=Amethyst
+tile.gem_ore.amethyst_ore.name=Amethyst Ore
+tile.gem_block.amethyst_block.name=Amethyst Block
+tile.gem_block.ruby_block.name=Ruby Block
+tile.gem_block.peridot_block.name=Peridot Block
+tile.gem_block.topaz_block.name=Topaz Block
+tile.gem_block.tanzanite_block.name=Tanzanite Block
+tile.gem_block.malachite_block.name=Malachite Block
+tile.gem_block.sapphire_block.name=Sapphire Block
+tile.gem_block.amber_block.name=Amber Block
+
+item.boat_sacred_oak.name=Mossy Oak Boat
+item.sacred_oak_door.name=Mossy Oak Door
+tile.log_0.sacred_oak_log.name=Mossy Oak Wood
+tile.planks_0.sacred_oak_planks.name=Mossy Oak Wood Planks
+tile.sacred_oak_fence.name=Mossy Oak Fence
+tile.sacred_oak_fence_gate.name=Mossy Oak Fence Gate
+tile.sacred_oak_wood_slab.name=Mossy Oak Wood Slab
+tile.sacred_oak_stairs.name=Mossy Oak Wood Stairs
+
+item.ricebowl.name=Bowl of Rice
+
+tile.mushroom.portobello.name=Portobello Mushroom
+
+tile.terrarium.terrarium_wasteland.name=Moon Terrarium
+tile.terrarium.terrarium_mystic.name=Mars Terrarium
+tile.terrarium.terrarium_flower.name=Venus Terrarium
+tile.terrarium.terrarium_origin.name=Alien Terrarium

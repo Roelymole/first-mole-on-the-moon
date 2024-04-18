@@ -1,0 +1,8 @@
+tile.pressure.input.name=High-Pressure Input
+tile.pressure.output.name=High-Pressure Output
+tile.pressure.pipe.name=High-Pressure Pipe
+tile.pressure.pump.name=High-Pressure Pump
+
+tile.pressure.router.name=High-Pressure Router
+tile.pressure.check_valve.name=High-Pressure Check Valve
+tile.pressure.pipe_sensor.name=High-Pressure Pipe Sensor

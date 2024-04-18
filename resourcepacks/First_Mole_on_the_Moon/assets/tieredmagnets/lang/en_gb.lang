@@ -1,0 +1,4 @@
+#Logs
+log.info.preinit=Pre-Initialisation Complete!
+log.info.init=Initialisation Complete!
+log.info.postinit=Initialisation Complete!

@@ -1,0 +1,16 @@
+tile.chargers.charger.tier_1.name=Tier 1 Charger
+tile.chargers.charger.tier_2.name=Tier 2 Charger
+tile.chargers.charger.tier_3.name=Tier 3 Charger
+tile.chargers.wireless_charger.name=Wireless Charger
+
+chat.chargers.wireless_charger.info=Status: %s, Energy: %s/%s RF
+chat.chargers.enabled=Enabled
+chat.chargers.disabled=Disabled
+
+tooltip.chargers.wireless_charger=Can be disabled with a redstone signal
+chat.chargers.stored.info=Energy: %s/%s RF
+
+gui.chargers.energy=%s/%s RF
+gui.chargers.max_in=Max In: %s RF/t
+gui.chargers.max_out=Max Out: %s RF/t
+gui.chargers.io=I/O: %s RF/t

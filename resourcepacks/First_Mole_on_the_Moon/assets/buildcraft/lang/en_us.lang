@@ -1,0 +1,21 @@
+buildcraft.christmas.buildcraft.fluid.heat_2=§cBoiling§r %s
+
+buildcraft.help.tank.generic=Clicking this with an\nempty bucket will empty\nthis tank into the bucket\nor using a full bucket\nwill fill this tank\nfrom the bucket.
+buildcraft.help.tank.title.fuel=Fuel Tank
+buildcraft.help.tank.title.coolant=Coolant Tank
+buildcraft.help.tank.title.residue=Residue Tank
+buildcraft.help.tank.fuel=This tank can accept\nany kind of fuel.
+buildcraft.help.tank.coolant=This tank can accept\nany kind of fluid, coolant\nor ice blocks.
+buildcraft.help.tank.residue=This tank will output\nresidue if the fuel\nhasn't been processed\n(for example oil).
+
+buildcraft.help.stone_engine.flame=Shows how much of the\ncurrent fuel is remaining.
+buildcraft.help.stone_engine.fuel=Accepts any fuel\nthat a furnace does.
+
+advancements.buildcraftenergy.to_much_power.title=Too much power!
+advancements.buildcraftenergy.to_much_power.description=Make an engine overheat and whack it with a wrench
+
+advancements.buildcraftenergy.ice_cool.description=Cool a combustion engine with something other than water (if available)
+
+advancements.buildcrafttransport.sealing_fluids.description=Smelt a cactus and craft its dye to produce pipe sealant
+
+advancements.buildcrafttransport.categorizing_with_colors.description=Setup a sorting system using the power of coloring

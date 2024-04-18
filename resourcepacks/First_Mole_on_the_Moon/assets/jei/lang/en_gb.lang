@@ -1,0 +1,5 @@
+jei.tooltip.item.colors=Colours: %s
+config.jei.search.colorSearchMode=^Colour
+config.jei.search.colorSearchMode.comment=Search mode for Colours (prefix: ^)
+config.jei.advanced.colorSearchEnabled=Enable Colour Search
+config.jei.advanced.colorSearchEnabled.comment=Search ingredients by colour and show the colours on tooltips in the list.

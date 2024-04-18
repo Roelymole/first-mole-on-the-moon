@@ -1,0 +1,10 @@
+color.gray=Grey
+color.light.gray=Light Grey
+
+config.display.colorBlindMode=Colourblind mode
+
+tip.shift.PipeItemsDaizuli=Sneak-click to change colour
+tip.shift.PipeItemsLapis=Sneak-click to change colour
+
+advancements.buildcrafttransport.colorful_electrician.title=Colourful electrician
+advancements.buildcrafttransport.colorful_electrician.description=Use 16 of each colour of pipe wire to make your piping system more robust

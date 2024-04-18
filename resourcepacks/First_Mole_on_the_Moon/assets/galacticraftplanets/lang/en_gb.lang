@@ -1,0 +1,19 @@
+item.shield_controller.description=Shield Controller protects armour from ALL forms of damage - including atmospheric corrosion!
+item.dust_titanium.name=Tier 2 Rocket Engine
+item.engine_t2.name=Tier 3 Rocket Engine
+tile.mars.marsdeco.name=Desh Block
+tile.mars_machine.5.name=Methane Synthesiser
+tile.mars_machine.6.name=Water Electrolyser
+tile.electrolyzer.description=Transforms water into hydrogen (useful for the Methane Synthesiser) and oxygen.
+
+item.desh_leggings.name=Desh Trousers
+item.titanium_leggings.name=Titanium Trousers
+
+item.thermal_boots.name=Thermal Socks
+item.thermal_boots_t2.name=Isothermal Socks
+item.thermal_chestplate.name=Thermal Vest
+item.thermal_chestplate_t2.name=Isothermal Vest
+item.thermal_helm.name=Thermal Cap
+item.thermal_helm_t2.name=Isothermal Cap
+item.thermal_leggings.name=Thermal Leggings
+item.thermal_leggings_t2.name=Isothermal Leggings

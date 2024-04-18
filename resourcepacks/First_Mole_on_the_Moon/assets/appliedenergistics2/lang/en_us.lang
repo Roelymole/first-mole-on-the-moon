@@ -1,0 +1,15 @@
+// Slabs
+tile.appliedenergistics2.chiseled_quartz_slab.name=Chiseled Certus Quartz Slab
+tile.appliedenergistics2.fluix_slab.name=Fluix Slab
+tile.appliedenergistics2.quartz_pillar_slab.name=Certus Quartz Pillar Slab
+tile.appliedenergistics2.quartz_slab.name=Certus Quartz Slab
+tile.appliedenergistics2.smooth_sky_stone_slab.name=Sky Stone Block Slab
+tile.appliedenergistics2.sky_stone_brick_slab.name=Sky Stone Brick Slab
+tile.appliedenergistics2.sky_stone_small_brick_slab.name=Sky Stone Small Brick Slab
+tile.appliedenergistics2.sky_stone_slab.name=Sky Stone Slab
+
+// Energy units
+gui.appliedenergistics2.FETunnel=RF
+
+gui.appliedenergistics2.ChargedQuartzFind=Charged Certus Quartz can be found at low Y-levels on the Moon semi-rarely, it appears similar to normal Certus Quartz, except it sparkles. It can also be made by charging Certus Quartz in the Charger.
+gui.appliedenergistics2.inWorldCraftingPresses=Crafting Presses are found in the center of meteorites which can be found on the Moon, they can be located by using a meteorite compass.

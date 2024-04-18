@@ -1,0 +1,12 @@
+gui.appliedenergistics2.inWorldCraftingPresses=Crafting Presses are found in the centre of meteorites which can be found on the Moon, they can be located by using a meteorite compass.
+gui.tooltips.appliedenergistics2.TerminalStyle_Tall=Tall Centred Terminal
+gui.tooltips.appliedenergistics2.TerminalStyle_Small=Small Centred Terminal
+gui.tooltips.appliedenergistics2.Craft=Crafting Behaviour
+
+tile.appliedenergistics2.chiseled_quartz_block.name=Chiselled Certus Quartz Block
+tile.appliedenergistics2.chiseled_quartz_stairs.name=Chiselled Certus Quartz Stairs
+tile.appliedenergistics2.chiseled_quartz_slab.name=Chiselled Certus Quartz Slab
+
+item.appliedenergistics2.multi_part.quartz_fiber.name=Quartz Fibre
+
+achievement.ae2.QNB=Quantum Tunnelling

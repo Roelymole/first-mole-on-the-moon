@@ -1,0 +1,36 @@
+item_desc.powerdraw.name=Power required: %s/s
+tile.buggy_pad.description=Fueling Pads will allow a buggy on the pad to be refueled by an attached Fuel Loaders if set up in a 3x3 square. Cannot be used to launch rockets!
+tile.compressor_advanced.description=A faster version of the Electric Compressor. Rapidly processes ingots into their compressed equivalents.
+container.treasurechest.name=Tier 1 Treasure Chest
+tile.treasure_chest.name=Tier 1 Treasure Chest
+
+tile.space_glass_clear_tin.name=Tin-Framed Vacuum Glass (Clear)
+tile.space_glass_vanilla_tin.name=Tin-Framed Vacuum Glass
+tile.space_glass_strong_tin.name=Tin-Framed Vacuum Glass (Strong)
+
+tile.basic_block_core.block_tin_gc.name=Tin Block
+tile.coal_generator.description=Coal Generator will burn Coal (or a Coal Block) for energy. The simplest but least efficient energy production method.
+
+item.steel_axe.name=Heavy-Duty Axe
+item.steel_boots.name=Heavy-Duty Boots
+item.steel_chestplate.name=Heavy-Duty Chestplate
+item.steel_helmet.name=Heavy-Duty Helmet
+item.steel_hoe.name=Heavy-Duty Hoe
+item.steel_leggings.name=Heavy-Duty Leggings
+item.steel_pickaxe.name=Heavy-Duty Pickaxe
+item.steel_shovel.name=Heavy-Duty Shovel
+item.steel_sword.name=Heavy-Duty Sword
+
+tile.block_multi.name=Multiblock
+
+tile.slab_gc_double.tin_slab_1.name=Tin Decoration Slab
+tile.slab_gc_double.tin_slab_2.name=Tin Wall Block Slab
+tile.tin_stairs_2.name=Tin Wall Block Stairs
+tile.slab_gc_double.moon_slab.name=Moon Rock Slab
+tile.slab_gc_double.moon_bricks_slab.name=Moon Dungeon Brick Slab
+tile.slab_gc_double.mars_slab.name=Mars Cobblestone Slab
+tile.slab_gc_double.mars_bricks_slab.name=Mars Dungeon Brick Slab
+tile.slab_gc_double.asteroids_slab.name=Dark Decoration Slab
+
+item.food.beef_patty_raw.name=Ground Beef
+item.food.beef_patty_cooked.name=Beef Patty

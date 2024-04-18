@@ -1,0 +1,45 @@
+{
+  "parent": "chisel:block/block_no_ao",
+  "textures": {
+    "particle": "#all"
+  },
+  "ambientocclusion": true,
+  "elements": [
+    {
+      "from": [  0,  0,  0 ],
+      "to":   [ 16, 16, 16 ],
+      "faces": {
+        "down" : { "texture": "#all", "cullface": "down"  },
+        "up"   : { "texture": "#all", "cullface": "up"    },
+        "north": { "texture": "#all", "cullface": "north" },
+        "south": { "texture": "#all", "cullface": "south" },
+        "west" : { "texture": "#all", "cullface": "west"  },
+        "east" : { "texture": "#all", "cullface": "east"  }
+      }
+    },
+    {
+      "from": [  0,  0,  0 ],
+      "to":   [ 16, 16, 16 ],
+      "faces": {
+        "north": { "texture": "#side", "cullface": "north", "tintindex": 0 },
+        "south": { "texture": "#side", "cullface": "south", "tintindex": 0 },
+        "west" : { "texture": "#side", "cullface": "west" , "tintindex": 0 },
+        "east" : { "texture": "#side", "cullface": "east" , "tintindex": 0 }
+      }
+    }
+],
+    "ctm_version": 1,
+    "ctm_overrides": {
+        "0": {
+            "type":"CTMH",
+            "layer":"CUTOUT",
+            "extra": {
+                "ignore_states": true,
+                "connect_to": [
+                    {"block": "minecraft:bookshelf"},
+                    {"block": "chisel:bookshelf_oak"}
+                ]
+            }
+        }
+    }
+}

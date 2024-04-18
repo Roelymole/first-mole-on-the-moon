@@ -1,0 +1,24 @@
+tile.oc.diskdrive.name=Disc Drive
+item.oc.disk.name=Disc Platter
+item.oc.diskdrivemountable.name=Disc Drive
+item.oc.floppydisk.name=Floppy Disc
+item.oc.harddiskdrive0.name=Hard Disc Drive (Tier 1)
+item.oc.harddiskdrive1.name=Hard Disc Drive (Tier 2)
+item.oc.harddiskdrive2.name=Hard Disc Drive (Tier 3)
+oc:container.diskdrive=Disc Drive
+oc:tooltip.diskusage=Disc usage: %s/%s Byte
+achievement.oc.floppy=The One Ri- Disc
+
+tile.oc.geolyzer.name=Geolyser
+
+item.oc.analyzer.name=Analyser
+oc:gui.Robot.TurnOn=Turn on[nl]§7Use an Analyser to troubleshoot errors.§r
+
+oc:tooltip.apu=This is a CPU with an integrated GPU (or IGP), when you just need that extra card slot.[nl] Supported components: §f%s§7[nl] Maximum resolution: §f%sx%s§7[nl] Maximum colour depth: §f%s§7[nl] Operations/tick: §f%s§7
+oc:tooltip.chameliumblock=Nice and clean. Handy for tinted shapes in 3D prints, or just for having a clean, coloured block to decorate your fancy base with.
+oc:tooltip.graphicscard=Used to change what's displayed on screens.[nl] Maximum resolution: §f%sx%s§7[nl] Maximum colour depth: §f%s§7[nl] Operations/tick: §f%s§7
+oc:tooltip.hologram0=A volumetric display that can be controlled by computers to display arbitrary voxel structures.[nl] Resolution: §f48x32x48§7 [nl] Maximum scale: §f3x§7 [nl] Colour depth: §fMonochrome§7
+oc:tooltip.hologram1=A volumetric display that can be controlled by computers to display arbitrary voxel structures.[nl] Resolution: §f48x32x48§7 [nl] Maximum scale: §f4x§7 [nl] Colour depth: §fTricolour§7
+oc:tooltip.screen=Display text, controlled by a Graphics Card in a Case.[nl] Maximum resolution: §f%sx%s§7[nl] Maximum colour depth: §f%s§7
+
+achievement.oc.redstoneCard.desc=Time to go analogue.

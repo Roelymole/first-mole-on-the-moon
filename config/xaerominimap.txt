@@ -19,7 +19,7 @@ deathpoints:true
 oldDeathpoints:true
 distance:1
 lockNorth:true
-zoom:0
+zoom:4
 minimapSize:175
 chunkGrid:-1
 slimeChunks:false
@@ -66,7 +66,7 @@ compassLocation:1
 compassDirectionScale:0
 caveMapsDepth:30
 hideWaypointCoordinates:false
-renderAllSets:false
+renderAllSets:true
 playerArrowOpacity:100
 waypointsBottom:false
 minimapShape:0

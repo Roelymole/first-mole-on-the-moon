@@ -1,0 +1,13 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type":"CTMH",
+        "extra": {
+            "ignore_states": true,
+            "connect_to": [
+                {"block": "minecraft:bookshelf"},
+                {"block": "chisel:bookshelf_oak"}
+            ]
+        }
+    }
+}

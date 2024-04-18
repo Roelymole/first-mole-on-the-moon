@@ -1,0 +1,32 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {
+			"1": "blocks/stone_diorite_smooth",
+			"3": "blocks/stone_diorite_smooth",
+			"2": "blocks/concrete_white",
+			"handle": "blocks/iron_block"
+		},
+		"model": "cfm:bedside_cabinet"
+	},
+	"variants": {
+		"inventory": [{
+			"model": "cfm:bedside_cabinet"
+		}],
+		"facing=north": {
+			"model": "cfm:bedside_cabinet",
+			"y": 270
+		},
+		"facing=south": {
+			"model": "cfm:bedside_cabinet",
+			"y": 90
+		},
+		"facing=east": {
+			"model": "cfm:bedside_cabinet"
+		},
+		"facing=west": {
+			"model": "cfm:bedside_cabinet",
+			"y": 180
+		}
+	}
+}
